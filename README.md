@@ -4,6 +4,8 @@ Name: MauerOats
 School: Chicago  
 Food: apple butter
 
+![Stylized Octocat](octocat-1748701751486.png)
+
 One line
 A second line
 
