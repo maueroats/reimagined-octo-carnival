@@ -31,4 +31,4 @@ Hard break
 I expect to be writing
 More code blocks
 ```
-
+Remember: [build your own octocat](https://myoctocat.com/build-your-octocat/) is really nice.
